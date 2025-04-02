@@ -6,7 +6,7 @@ Mes Compétences Techniques :
 
  - Systèmes d'Exploitation : Je maîtrise Linux (Ubuntu, Fedora...) 🐧, Windows, et Windows Server.
  - Virtualisation : J'ai acquis des compétences avec Docker 🐳, Proxmox, et VirtualBox.
- - Réseaux et Sécurité : J'utilise des outils comme Wireshark et j'ai récemment appris à utiliser Tailscale. J'ai également travaillé avec des technologies telles que Firewall et VLAN.
+ - Réseaux et Sécurité : J'utilise des outils comme Wireshark et j'ai récemment appris à utiliser Tailscale. J'ai également travaillé avec des technologies telles que le Firewalling et les VLANs.
  - Développement Web : Je suis à l'aise avec HTML, CSS, YAML et Cloudflare Pages 🌐.
  - Outils de Développement : Mes outils incluent Visual Studio Code, Git, et GitHub 🛠️.
  - Cloud et Services : J'ai de l'expérience avec Cloudflare ☁️.
