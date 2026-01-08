@@ -1,4 +1,4 @@
-Bonjour ! 👋 Je suis un étudiant passionné en première année de bac pro CIEL (Cybersécurité, Informatique et Réseaux Électroniques).
+Bonjour ! 👋 Je suis un étudiant passionné en dernière année de bac pro CIEL (Cybersécurité, Informatique et Réseaux Électroniques).
 
 Je suis constamment à la recherche de nouvelles connaissances et opportunités d'apprentissage, et j'adore collaborer en équipe pour résoudre des problèmes complexes et explorer des solutions innovantes.
 
@@ -6,7 +6,7 @@ Mes Compétences Techniques :
 
  - Systèmes d'Exploitation : Je maîtrise Linux (Ubuntu, Fedora...) 🐧, Windows, et Windows Server.
  - Virtualisation : J'ai acquis des compétences avec Docker 🐳, Proxmox, et VirtualBox.
- - Réseaux et Sécurité : J'utilise des outils comme Wireshark et j'ai récemment appris à utiliser Tailscale. J'ai également travaillé avec des technologies telles que le Firewalling et les VLANs.
+ - Réseaux et Sécurité : J'utilise des outils comme Wireshark et j'ai récemment appris à utiliser Wireguard. J'ai également travaillé avec des technologies telles que le Firewalling et les VLANs.
  - Développement Web : Je suis à l'aise avec HTML, CSS, YAML et Cloudflare Pages 🌐.
  - Outils de Développement : Mes outils incluent Visual Studio Code, Git, et GitHub 🛠️.
  - Cloud et Services : J'ai de l'expérience avec Cloudflare ☁️.
